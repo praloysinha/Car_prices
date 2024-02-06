@@ -41,4 +41,4 @@ traverse premier
 
  The car dealership should focus on the **above top 10 models** above in the **3 cities (Bellingham, Birmingham and Auburn)** in **good condition** manufactured by **Ford and Chevrolet** in order to maximise the price of the car that they sell. 
  
- **Conclusion:** The inventory of the dealership with the above features would help get a better price. 
+ **Recommendation:** The inventory of the dealership with the above features would help get a better price. 

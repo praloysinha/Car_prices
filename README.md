@@ -17,7 +17,7 @@ The following were used - dropping of a few unnecessary columns and rows, conver
 1. Variance inflation Factor check for Multicollinearity
 2. Scaled the data for comparable model coefficients
 3. Created the train - test split for the Hold Out Cross validation
-4. Built the Pipeline with Polynomial features, sequential feature selection to get the top 5 features since there were 14 of them, and a Ridge regression to model teh coefficients
+4. Built the Pipeline with Polynomial features, sequential feature selection to get the top 5 features since there were 14 of them, and a Ridge regression to model the coefficients
  ![image](https://github.com/praloysinha/Car_prices/assets/153297109/baaeb1d9-1824-4dfb-b8c7-4b2923325992)
 5. The training MSE was quite low at 0.97 which meant a good fit
 6. **Important** - GridSearchCv was not used due to 2 reasons

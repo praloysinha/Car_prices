@@ -27,16 +27,26 @@ The coefficients were extracted for the 5 features
 
 **Results and Interpretaion** - The top features in descending order of importance are **Model, Region, condition, manufacturer**. All of them are positively related to price except for the 5th one model^2 which is negatively related. So higher the model, regiom,condition, manufacturer score, higher the price.
 The top ones in each of these features are which would drive higher price: 
+
 **Models:**
 mazda3 i touring hatchback
+
 leaf s hatchback 4d
+
 gladiator overland
+
 silverado 1500
+
 tahoe
+
 sorento
+
 xf 20d premium sedan 4d
+
 pt cruiser limited edit
+
 romeo stelvio ti sport suv
+
 traverse premier
 
  The car dealership should focus on the **above top 10 models** above in the **3 cities (Bellingham, Birmingham and Auburn)** in **good condition** manufactured by **Ford and Chevrolet** in order to maximise the price of the car that they sell. 

@@ -1,4 +1,4 @@
-# Car_prices
+# Predicting Car_prices 
 Link to the Jupiter Notebook https://github.com/praloysinha/Car_prices/blob/main/Praloy_Practical_Application_II.ipynb
 
 Important - The csv datafile was not uploaded due to its size as it Git Hub did not accept a 50 MB file

@@ -11,7 +11,12 @@ The assumption is that sufficient data is available to analyze which is reflecti
 **Data** - A dataset of 426,880 entries comprising of the price of the used car and its 17 different features were used for this analyses
 
 **Exploration and Preparation** - The dataset was explored to gauge its quality for missing values, data types, zero values, columns which can be dropped without any impact, and categorical data. A few data preparation operations were conducted to get it ready for modelling.
-The following were used - dropping of a few unnecessary columns and rows, conversion to usable data types,  simple imputation of null and zero values, encoding of categorical values with _James Stein_ encoder. Iterative imputation was evaluated but dropped due to high number of categorical values which werent imputed by this method. 
+The following were used - 
+1. dropping of a few unnecessary columns and rows, 
+2. conversion to usable data types, 
+3. simple imputation of null and zero values, 
+4. encoding of categorical values with _James Stein_ encoder. 
+5. Iterative imputation was evaluated but dropped due to high number of categorical values which werent imputed by this method. 
 
 **Modelling:** A regression model with Price as the dependant variable and the other features were built. A few key steps in it were the following:-
 1. Variance inflation Factor check for Multicollinearity
